@@ -1,0 +1,6 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "post_order_BT.C": "cpp"
+    }
+}
